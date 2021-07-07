@@ -1,12 +1,4 @@
-# Linkedin Layout Clone
-
-<p >
-    <img src="/images/linkedin-layout-preview.png" > 
-</p>
-
-## Live Version
-
-**[Click here! :)](http://linkedin-layout-clone.surge.sh/)**
+# Linkedin Layout Clone for demos
 
 ## Project Overview
 
