@@ -875,6 +875,26 @@ main#main-section article div#post-data img {
     border-top: 1px solid #e6e9ec;
 }
 
+main#main-section article div#adds {
+    background-color: #f5f9fd;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+}
+
+main#main-section article div#adds a {
+    text-decoration: none;
+    border-radius: 100px;
+    color: #0073b1;
+    border: solid 2px #0073b1;
+    padding: 0.25rem 2rem;
+}
+
+main#main-section article div#adds a:hover {
+    background-color: #e8f7ff;
+}
+
 main#main-section article div#post-interactions div#interactions-amount {
     margin: 7px 16px;
     border-bottom: 1px solid #e6e9ec;
